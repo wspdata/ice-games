@@ -44,7 +44,7 @@ Projeto de análise de dados aplicado à loja online Ice, que vende videogames n
 
 ## 📂 Conteúdo do Repositório
 
-- **Notebook (.ipynb):** análise completa, incluindo pré-processamento, EDA, análise regional, testes de hipóteses e conclusões
+- **ice_games (.ipynb):** análise completa, incluindo pré-processamento, EDA, análise regional, testes de hipóteses e conclusões
 - **README (.md):** este arquivo
 
 ---
